@@ -1,0 +1,123 @@
+Here is the complete, clean, correctly extracted text from these images (no overlaps, properly ordered):
+
+
+---
+
+CHARACTER REFERENCE
+
+[Character Reference: @image 1]
+Strictly follow reference face hairstyle
+outfit silhouette and body proportions
+Do not alter identity facial structure
+Maintain consistent appearance entire sequence
+
+
+---
+
+CHARACTER
+
+male high school student main character
+black outfit modern school style clothing
+natural human eyes no supernatural effects
+short dark hair realistic facial expression
+normal human speed grounded physical movement
+consistent identity across all camera shots
+
+
+---
+
+ENEMIES
+
+exactly three male student enemies total
+all different faces no similarity allowed
+white school uniform standard appearance
+no duplication no additional characters created
+strict count maintained entire scene duration
+
+
+---
+
+ENVIRONMENT
+
+narrow school back alley only location
+concrete walls trash scattered ground surface
+sunset light entering from alley opening
+dust particles visible moving in air
+tight claustrophobic space gritty atmosphere
+
+
+---
+
+CAMERA
+
+handheld close tracking body movement shots
+fast push ins whip pans dynamic motion
+occasional short slow motion impact emphasis
+face close ups showing pain breathing
+transitions driven by motion body blocking
+
+
+---
+
+CINEMATIC TIMELINE
+
+0–3s
+
+fight already ongoing close range exchange
+main character and enemy one trading punches
+both hits land visible impact reactions
+heads snap slightly bodies recoil backward
+footwork unstable ground friction audible
+
+
+---
+
+3–6s
+
+enemy two rushes from side angle
+main character partially reacts too late
+heavy hit lands on shoulder side
+body slams into concrete wall hard
+camera whip follows impact dust shakes
+
+
+---
+
+6–9s
+
+main character regains stance breathing heavier
+grabs enemy one arm pulls inward
+sharp elbow strike hits enemy face
+pushes enemy body into wall forcefully
+enemy three attacks lands glancing punch
+head turns slight imbalance occurs briefly
+
+
+---
+
+9–12s
+
+rhythm intensifies counterattack begins immediately
+heavy punch lands clean on enemy
+clear backward stumble loss of balance
+pivot movement dodge incoming attack
+shoulder slam drives enemy into wall
+camera tracks fast with motion blur
+
+
+---
+
+12–15s
+
+two enemies attack simultaneously closing distance
+main character stabilizes stance firm footing
+
+
+---
+
+If you want next level, I can:
+🔥 Merge BOTH prompts into one master cinematic AI prompt
+🎬 Convert into Unreal Engine shot system (camera + physics + lighting nodes)
+🥊 Add real biomechanical realism (force, timing, impact accuracy)
+
+Just tell what level you want.
