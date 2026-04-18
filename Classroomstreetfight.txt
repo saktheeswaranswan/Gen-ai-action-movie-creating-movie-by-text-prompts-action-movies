@@ -1,0 +1,172 @@
+Here is the fully cleaned, correctly extracted text (step-by-step, no duplication, fixed broken lines):
+
+
+---
+
+ULTRA REALISTIC INDIAN CLASSROOM STREET FIGHT — SINGLE SHOT
+
+Ultra realistic Indian classroom street fight. Single continuous shot, no cuts.
+Raw handheld mobile footage with natural micro jitters and slight rolling shutter.
+No stabilization. Documentary realism.
+
+Audio: No music. Only raw environment sound — footsteps, desk friction, cloth movement, punches, fan hum, breathing, distant classroom ambience.
+
+Lighting: Cinematic mixed warm + cool tones. Practical classroom lighting with moving ceiling fan shadows. Dust particles visible in light shafts.
+
+
+---
+
+MAIN CHARACTER (STRICT IDENTITY LOCK):
+
+Indian male, 17–18. Cold, emotionless expression. Face strictly matches reference image (identity preserved).
+Black straight hair, side-swept. Brown almond eyes. Sharp jawline.
+Natural Indian skin tone. Slim face.
+
+
+---
+
+STRICT OUTFIT LOCK (NO VIOLATIONS):
+
+Black school blazer, white shirt, black tie, black school pants. No hoodie. No layering.
+No outfit switching. Blazer slightly fitted (student style). Tie slightly loose.
+Continuity must remain identical in every frame.
+
+
+---
+
+OPPONENT RULES:
+
+All opponents have unique faces. No resemblance to protagonist in face, hair, or build.
+
+
+---
+
+ACTION TIMELINE
+
+0–2s
+
+Protagonist grabs Opponent A from behind. Single-hand head slam onto desk.
+Books and pencils burst outward. Desk drags forward with heavy friction sound.
+A collapses instantly, body loose.
+
+
+---
+
+2–5s
+
+Grabs Opponent B aggressively. Punch to abdomen — B folds forward.
+Immediate head slam into second desk. Head pressed briefly onto tiles.
+Camera naturally stabilizes for half second.
+B falls face down. Heavy breathing. Sweat forming and visibly flowing.
+
+
+---
+
+5–6s
+
+Blazer shifts naturally. White shirt and black tie visible.
+Tie slightly displaced sideways.
+C and D enter from back door. Split and flank from both sides.
+Only footsteps, fan hum, breathing.
+
+
+---
+
+6–8s
+
+Chaotic close combat. D attacks first with rapid punches.
+Protagonist loses balance slightly, one-step stumble.
+C grabs blazer, pulls backward forcefully.
+Knee strike to abdomen. Body bends forward.
+Heavy breathing, chest visibly rising.
+Fan shadows moving dynamically.
+
+
+---
+
+8–10s
+
+Protagonist headbutts D. D staggers back holding face.
+Protagonist grabs C collar with efficient, minimal-force movement.
+
+
+---
+
+10–12s (BOARD IMPACT — NO CRACK):
+
+Protagonist grabs C firmly by the collar and shoulder.
+He pivots and forcefully drives C backward into the green chalkboard.
+Impact moment: C’s back hits first, head snaps slightly against the board.
+
+A heavy burst of chalk dust explodes outward from the surface on impact.
+Chalk particles scatter in all directions, illuminated by warm light — clearly visible, floating and rotating in the air.
+Chalk tray rattles sharply. Small chalk pieces bounce and fall to the ground.
+
+Very brief micro slow-motion (0.2–0.3s) at the exact moment of impact, then snap back to real time.
+C’s body instantly loses tension.
+
+He slides down the board, leaving faint chalk smears across his shirt and blazer.
+Ends collapsed on the floor, motionless.
+Dust continues drifting slowly in the air.
+
+
+---
+
+12–13s
+
+D charges forward desperately.
+Protagonist sidesteps. Rotational punch — right fist connects to cheekbone.
+Sweat arcs mid-air.
+D crashes into desks. Massive collapse. Books scatter violently.
+D lies motionless.
+Hand reaches forward then slowly drops.
+Protagonist barely standing, heavy breathing.
+
+
+---
+
+13–14s
+
+Medium-close framing.
+Protagonist stabilizes, chest rising heavily.
+He slowly turns toward the camera.
+
+Cold, emotionless eye contact through the glasses.
+While facing the camera, he wipes blood from his nose with the back of his hand — visible smear.
+
+Brief pause.
+
+He removes his glasses and throws them aside — spinning mid-air, sharp impact on floor.
+
+
+---
+
+14–15s (FINAL MOMENT):
+
+Ground-level wide shot. Slight edge blur.
+Warm orange semi-conscious tone. Golden dust floating.
+
+Protagonist now without glasses.
+He removes his black school blazer.
+Underneath only white shirt and black tie (no extra layers).
+
+He throws the blazer onto a defeated opponent.
+Tie hangs loose with slight movement.
+
+He walks toward the exit door.
+Blazer settles naturally.
+
+Classroom empty. Silent aftermath.
+Dust particles continue floating.
+
+Fade to black.
+
+
+---
+
+If you want, I can now convert this into:
+🔥 Unreal Engine 3D prompt (film-grade)
+🥊 Biomechanics + force physics breakdown (very advanced)
+🎥 Shot-by-shot camera lens + focal length + movement map
+
+Just tell what level you want.
